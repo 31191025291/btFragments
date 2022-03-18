@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="flowers">
+        <item>https://image-us.eva.vn/upload/1-2021/images/2021-02-19/image1-1613707937-289-width600height400.jpg</item>
+        <item>https://stc.subi.vn/image/1/210325/bo-hoa-lam-bang-tien-polyme-50-bong-1.jpg</item>
+        <item>https://hoatuoithanhthao.com/media/ftp/hoa-cam-tu-cau.jpg</item>
+    </string-array>
+    <string-array name="animals">
+        <item>https://talkstar-assets.s3.amazonaws.com/production/playlists/playlist_659/bc97ca6a-39a1-4d80-a779-7765dcebf3ff/unexpected_lessons_from_animal_world-1200x627.jpg</item>
+        <item>https://i.natgeofe.com/k/75ac774d-e6c7-44fa-b787-d0e20742f797/giant-panda-eating_16x9.jpg</item>
+        <item>https://media.baamboozle.com/uploads/images/504628/1635844505_435597.jpeg</item>
+    </string-array>
+    <string-array name="foods">
+        <item>https://thefoodshop.vn/wp-content/uploads/2021/10/newhomepagebanner-mobile-optimized.jpg</item>
+        <item>https://media.self.com/photos/5f189b76c58e27c99fbef9e3/1:1/w_768,c_limit/blackberry-vanilla-french-toast.jpg</item>
+        <item>https://images.foody.vn/res/g91/907273/prof/s640x400/foody-upload-api-foody-mobile-8-190611164031.jpg</item>
+    </string-array>
+    <array name="images">
+        <item>@array/flowers</item>
+        <item>@array/animals</item>
+        <item>@array/foods</item>
+    </array>
+</resources>
